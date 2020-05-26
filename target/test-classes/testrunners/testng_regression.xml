@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My hubspot  Test Automation Regression suite">
+
+  <test  name="Login page test">
+    <classes>
+        <class name="com.qa.hubspot.test.LoginPageTest"/>
+     
+    
+    </classes>
+  </test>
+  
+  <!-- <test  name="Home Page test">
+    <classes>
+        
+      <class name="com.qa.hubspot.test.HomePageTest"/>
+    
+    </classes>
+  </test> -->
+  
+</suite>
